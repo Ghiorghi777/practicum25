@@ -1,0 +1,7 @@
+D:\Project\practicum25\bin\Debug\practicum25.exe.config
+D:\Project\practicum25\bin\Debug\practicum25.exe
+D:\Project\practicum25\bin\Debug\practicum25.pdb
+D:\Project\practicum25\obj\Debug\practicum25.csproj.AssemblyReference.cache
+D:\Project\practicum25\obj\Debug\practicum25.csproj.CoreCompileInputs.cache
+D:\Project\practicum25\obj\Debug\practicum25.exe
+D:\Project\practicum25\obj\Debug\practicum25.pdb
